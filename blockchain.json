@@ -1,0 +1,22 @@
+[
+    {
+        "index": 1,
+        "timestamp": 1733500537.998581,
+        "transactions": [],
+        "proof": 100,
+        "previous_hash": "1"
+    },
+    {
+        "index": 2,
+        "timestamp": 1733500829.3223662,
+        "transactions": [
+            {
+                "sender": "0",
+                "recipient": "c070a4ae77fa41928efadd9a12fc2ed4",
+                "amount": 1
+            }
+        ],
+        "proof": 35293,
+        "previous_hash": "f2e23255f0345dedea6d9f7543f26e1dbc6e34e59318c54edee4dd45e22280f3"
+    }
+]
